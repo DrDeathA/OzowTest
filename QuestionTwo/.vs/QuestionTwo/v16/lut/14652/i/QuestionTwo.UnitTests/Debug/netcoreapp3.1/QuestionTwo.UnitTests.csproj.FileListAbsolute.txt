@@ -1,0 +1,16 @@
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.exe
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.deps.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.runtimeconfig.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.AssemblyInfo.cs
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.csproj.CopyComplete
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.genruntimeconfig.cache
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo.UnitTests\Debug\netcoreapp3.1\QuestionTwo.UnitTests.csprojAssemblyReference.cache

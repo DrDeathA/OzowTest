@@ -1,0 +1,16 @@
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.exe
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.deps.json
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.runtimeconfig.json
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\b\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.AssemblyInfo.cs
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.csproj.CopyComplete
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.dll
+C:\Users\Juan\Desktop\QuestionOne\.vs\QuestionOne\v16\lut\17688\i\QuestionOne.UnitTests\Debug\netcoreapp3.1\QuestionOne.UnitTests.genruntimeconfig.cache

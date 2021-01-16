@@ -1,0 +1,10 @@
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.exe
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.deps.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.runtimeconfig.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\b\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.AssemblyInfo.cs
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.csproj.CopyComplete
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.dll
+C:\Users\Juan\Desktop\QuestionTwo\.vs\QuestionTwo\v16\lut\0\i\QuestionTwo\Debug\netcoreapp3.1\QuestionTwo.genruntimeconfig.cache

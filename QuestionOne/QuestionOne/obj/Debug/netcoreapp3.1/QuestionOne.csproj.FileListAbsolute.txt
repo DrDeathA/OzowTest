@@ -1,0 +1,13 @@
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.exe
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.deps.json
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.runtimeconfig.json
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.dll
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\bin\Debug\netcoreapp3.1\QuestionOne.pdb
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.AssemblyInfo.cs
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.dll
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.pdb
+C:\Users\Juan\Desktop\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.genruntimeconfig.cache
