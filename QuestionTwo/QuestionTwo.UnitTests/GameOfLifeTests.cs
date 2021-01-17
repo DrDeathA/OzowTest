@@ -12,9 +12,9 @@ namespace QuestionTwo.UnitTests
         public void LivingNeigbourCounterTest()
         {
             cgolTest = new ConwayGameOfLife(2, 2);
-            cgolTest.CurrentIteration[0, 1] = '*';
-            cgolTest.CurrentIteration[1, 0] = '*';
-            cgolTest.CurrentIteration[1, 1] = '*';
+            cgolTest.CurrentIteration[0, 1] = cgolTest.livingCellRep;
+            cgolTest.CurrentIteration[1, 0] = cgolTest.livingCellRep;
+            cgolTest.CurrentIteration[1, 1] = cgolTest.livingCellRep;
 
             var result = cgolTest.LivingNeighbourCounter(0, 0);
 
